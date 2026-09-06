@@ -1,2 +1,2 @@
-# Gen1recomp-
+# Gen1recomp-Weather-Simulator
 Mods
